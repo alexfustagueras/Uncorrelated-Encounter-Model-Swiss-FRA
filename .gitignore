@@ -1,22 +1,10 @@
 venv/
 
-*.md
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
 
 # outdated material
-pybasicbayes-master/
-pyhsmm-master/
-pylds-master/
-pyslds-master/
-recurrent-slds-master/
-pypolyagamma-master/
-wandb/
-logs/
-slds_train.slurm
-
-Model.ipynb
-Sampling.ipynb
-X_OLD_preprocessing.ipynb
+OLD/
+dataset_cache/

@@ -1,0 +1,12 @@
+name: traffic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - traffic
+  - cm-jupyter-eg-kernel-wlm
+  - jupyter_enterprise_gateway
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /home/fusg/.conda/envs/traffic
