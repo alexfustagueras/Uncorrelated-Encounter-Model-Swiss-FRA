@@ -10,6 +10,7 @@ from .utils import (
     build_or_load_dataset,
     collect_parquet_files,
     load_data_from_files,
+    load_and_engineer,
     make_loader,
     cache_paths,
     aircraft_centric_transform,
